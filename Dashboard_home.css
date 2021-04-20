@@ -1,0 +1,1318 @@
+* {
+  font-family: OpenSans;
+}
+.Mask_Copy {
+  width: auto;
+
+  height: 528.3px;
+
+  margin: 0 0 174.2px;
+
+  padding: 0 0 0.8px;
+
+  object-fit: contain;
+
+  background-image: linear-gradient(
+    246deg,
+    rgba(0, 0, 0, 0) 77%,
+    rgba(0, 0, 0, 0.71) -7%
+  );
+
+  background-image: url("./img/malaysia-floods-l.jpg");
+}
+
+.vanguard_logo_white {
+  width: 103.3px;
+
+  height: 41.7px;
+
+  /* margin: 34.2px 973.3px 452.5px 123.3px; */
+}
+
+.Welcome-Elizabeth-St {
+  width: 253px;
+
+  height: 14px;
+
+  margin: 90px 806px 5.5px 140.8px;
+  /* margin: 1.5px 317.8px 4.7px 51.7px; */
+
+  font-size: 10px;
+
+  font-weight: 600;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  letter-spacing: -0.01px;
+
+  text-align: left;
+
+  color: #ffffff;
+}
+
+.Welcome-Elizabeth-St .text-style-1 {
+  font-weight: 300;
+}
+
+.nav {
+  display: flex;
+  flex-direction: row;
+  margin-left: 711px;
+}
+
+.nav_button {
+  height: 14px;
+
+  margin-right: 60px;
+
+  font-size: 10px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 2.25;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #ffffff;
+}
+
+.Rectangle {
+  width: auto;
+
+  height: 75.8px;
+
+  margin: 4.7px 89.5px 0 89.5px;
+
+  padding: 15.3px 575.1px 21px 50px;
+
+  opacity: 0.17;
+
+  border-radius: 4.2px;
+
+  background-color: #ffffff;
+}
+
+.Rectangle2 {
+  width: auto;
+
+  height: 457.5px;
+
+  margin: 0 89.2px 21.7px 89.2px;
+
+  padding: 27.2px 0.9px 25.2px 0.2px;
+
+  border-radius: 4.2px;
+
+  box-shadow: 0 0 10px 0 rgba(121, 148, 152, 0.15);
+
+  background-color: #ffffff;
+}
+
+.The-Stanton-Children {
+  width: 394px;
+
+  height: 27px;
+
+  margin: 0 2.5px 12.5px 0;
+
+  font-size: 20px;
+
+  font-weight: 600;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 2.54;
+
+  letter-spacing: -0.03px;
+
+  text-align: left;
+
+  color: #070000;
+}
+
+.The-Stanton-Children .text-style-1 {
+  letter-spacing: normal;
+}
+
+.The-standard-VCEP-Se {
+  width: 148px;
+
+  height: 14px;
+
+  margin: 5.7px 237px 0 0.8px;
+
+  font-size: 10px;
+
+  line-height: 2.25;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #050505;
+}
+
+.Balance {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.Balance_Detail {
+  display: flex;
+  flex-direction: column;
+}
+
+.Balance_Name {
+  width: 106px;
+
+  height: 15px;
+
+  margin: 0 0 23.7px 58.2px;
+
+  font-family: OpenSans;
+
+  font-size: 11.7px;
+
+  font-weight: 600;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 4.36;
+
+  letter-spacing: -0.02px;
+
+  text-align: left;
+
+  color: #4e4e4e;
+}
+
+.Balance_Amount {
+  width: 114px;
+
+  height: 27px;
+
+  margin: 0 auto auto 55px;
+
+  font-size: 20px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.17;
+
+  letter-spacing: 1.14px;
+
+  text-align: left;
+
+  color: #77ccdc;
+}
+.Rectangle-2 {
+  width: 36.7px;
+
+  height: 11.7px;
+
+  margin: 0 3.2px 0 55.2px;
+
+  border-radius: 5.8px;
+
+  background-color: #77ccdc;
+}
+
+.Add {
+  width: 29px;
+
+  height: 10px;
+
+  margin: 0.3px 0 1.3px 10.8px;
+
+  font-family: OpenSans;
+
+  font-size: 7.5px;
+
+  font-weight: 600;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  letter-spacing: 0.01px;
+
+  text-align: left;
+
+  color: #ffffff;
+}
+
+.Path-6 {
+  width: auto;
+
+  height: 0.4px;
+
+  margin: 16.3px 0 16.7px;
+
+  border: solid 0.6px #e0e0e0;
+
+  background-color: #d8d8d8;
+}
+
+.heading {
+  display: flex;
+  flex-direction: row;
+  margin-left: 50px;
+  justify-content: space-between;
+}
+
+.graph {
+  position: absolute;
+
+  top: 480px;
+
+  width: 479.2px;
+
+  height: 345px;
+
+  margin: 5px 4.7px 0 17.8px;
+
+  padding: 23.3px 21.8px 15.8px 12.5px;
+
+  opacity: 0.42;
+}
+
+.plot {
+  display: flex;
+
+  flex-direction: row;
+
+  margin-left: 350px;
+}
+
+.D {
+  width: 14px;
+
+  height: 10px;
+
+  margin: 0 6px 121.7px 1.8px;
+
+  font-family: OpenSans;
+
+  font-size: 7.5px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 3;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #b3b3b3;
+}
+
+.Legacy-journey {
+  width: 277px;
+
+  height: 27px;
+
+  font-size: 20px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.13;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #4e4e4e;
+}
+
+.Activity {
+  width: 74px;
+
+  height: 27px;
+
+  margin: 16.7px 165.2px 33.2px 203.5px;
+
+  font-size: 20px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  letter-spacing: 0.81px;
+
+  text-align: left;
+
+  color: #4e4e4e;
+}
+
+.graph {
+  width: 479.2px;
+
+  height: 345px;
+
+  margin: 5px 4.7px 0 17.8px;
+
+  padding: 23.3px 21.8px 15.8px 12.5px;
+
+  opacity: 0.42;
+}
+
+.Path-4 {
+  width: 335px;
+
+  height: 0;
+
+  margin: 0 56.1px 0 174.1px;
+
+  border: solid 0.5px #979797;
+
+  background-color: #d8d8d8;
+}
+.Balance_Amount1 {
+  width: 114px;
+
+  height: 27px;
+
+  margin: 0 auto auto 185px;
+
+  font-size: 20px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.17;
+
+  letter-spacing: 1.14px;
+
+  text-align: left;
+
+  color: #77ccdc;
+}
+
+.path {
+  display: flex;
+  flex-direction: column;
+  margin-left: 600px;
+}
+
+.Wire-Transfer {
+  width: 74px;
+
+  margin: 4.7px 166.8px 0 201.8px;
+
+  font-family: Helvetica;
+
+  font-size: 8.3px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 2.7;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #4e4e4e;
+}
+
+.Show-more- {
+  width: 148px;
+
+  height: 8px;
+
+  margin: 0 92.8px 0 201.8px;
+
+  font-family: Helvetica;
+
+  font-size: 8.3px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.3;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #4e4e4e;
+}
+
+/* Investment Section */
+
+.Investment {
+  width: auto;
+
+  height: 173.3px;
+
+  margin: 11.7px 89.2px 25.8px 89.2px;
+
+  padding: 15px 0 0;
+
+  border-radius: 4.2px;
+
+  box-shadow: 0 0 10px 0 rgba(121, 148, 152, 0.15);
+
+  background-color: #ffffff;
+}
+
+.Investment-Options {
+  width: 277px;
+
+  height: 27px;
+
+  margin: 0 60.5px 16.3px 36.7px;
+
+  font-size: 20px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.13;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #4e4e4e;
+}
+.Invested-in-6-Opti {
+  width: 269px;
+  height: 15px;
+  font-size: 11.7px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 4.36;
+  letter-spacing: -0.02px;
+  text-align: left;
+  color: #c2c2c2;
+  position: absolute;
+  top: 860px;
+  left: 310px;
+}
+
+.-Invested-in-6-Opti .text-style-1 {
+  color: #6cc8d8;
+}
+
+.-Invested-in-6-Opti .text-style-2 {
+  color: #c2c2b7;
+}
+
+.Investment_graph {
+  display: flex;
+  flex-direction: row;
+}
+
+.Investment_graph_detail {
+  margin-right: 40px;
+}
+
+.graphmini {
+  width: 60px;
+
+  height: 22.5px;
+
+  margin: 16.2px 0 6.5px 38.3px;
+
+  opacity: 0.54;
+}
+
+.Short-Term-Bond {
+  width: 98px;
+
+  height: 15px;
+
+  margin: 4px 20.3px 1.7px 38.3px;
+
+  font-size: 11.7px;
+
+  font-weight: 600;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.93;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #4e4e4e;
+}
+
+.Investment_graph_price {
+  width: 108px;
+
+  height: 14px;
+
+  margin: 0.8px 0 30.3px 39.2px;
+
+  font-family: OpenSans;
+
+  font-size: 10px;
+
+  font-weight: 600;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 2.25;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #78cddd;
+}
+.Recommend-an-excha {
+  width: 148px;
+
+  height: 14px;
+
+  font-family: OpenSans;
+
+  font-size: 10px;
+
+  font-weight: 600;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  margin-left: auto;
+
+  margin-right: auto;
+
+  letter-spacing: -0.02px;
+
+  text-align: left;
+
+  color: #818181;
+}
+
+/* Grant Recommendation */
+
+.Grant_Recommendation {
+  display: flex;
+
+  flex-direction: row;
+
+  width: auto;
+
+  margin: 25.8px 89.2px 21.7px 89.2px;
+
+  padding: 44.2px 695.5px 38.8px 49.2px;
+
+  border-radius: 4.2px;
+
+  box-shadow: 0 0 10px 0 rgba(121, 148, 152, 0.15);
+
+  background-color: #ffffff;
+}
+
+.Grant_Recommendation_heading {
+  width: 277px;
+
+  height: 27px;
+
+  font-family: OpenSans;
+
+  font-size: 20px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.13;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #4e4e4e;
+}
+
+.categeory_block {
+  display: flex;
+
+  margin-left: 400px;
+}
+
+.Grant_Recommendation_categeory {
+  height: 26.7px;
+
+  margin: 0 7.5px 0 0;
+
+  padding: 7.5px 35.8px 5px 11.7px;
+
+  border-radius: 3.3px;
+
+  background-color: #6cc8d8;
+}
+
+.Filter-by-category {
+  width: 148px;
+
+  height: 15px;
+
+  margin: 1.7px 0 10px 0;
+
+  font-family: OpenSans;
+
+  font-size: 11.7px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.93;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #ffffff;
+}
+
+/* Card */
+
+.card_section {
+  width: auto;
+  display: flex;
+
+  flex-wrap: wrap;
+}
+
+.card_Rectangle_5 {
+  position: relative;
+  margin: 5px 0 0 89px;
+  width: 278.8px;
+  height: 18.8px;
+  padding: 0.2px 32.5px 18.2px 14.2px;
+  border-radius: 4.2px;
+  background-color: #7dd8a9;
+}
+
+.Grant-Cycle {
+  width: 162px;
+
+  height: 6px;
+
+  margin: 0 14.7px 4.5px 0;
+
+  font-size: 5px;
+
+  font-weight: 600;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 4.5;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #ffffff;
+}
+
+.Every-year {
+  width: 162px;
+
+  height: 10px;
+
+  margin: 4.5px 14.7px 0 0;
+
+  font-size: 7.5px;
+
+  font-weight: bold;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 3;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #ffffff;
+}
+
+.card_Rectangle_4 {
+  position: absolute;
+  width: 102.5px;
+  height: 4.2px;
+  margin: 3.3px 0;
+  padding: 0 72.5px 0 0;
+  border-radius: 2.1px;
+  background-color: rgba(255, 255, 255, 0.43);
+  left: 220px;
+  top: 1230px;
+}
+
+.card_detail {
+  width: 325.8px;
+
+  height: 278.3px;
+
+  margin: 0px 21.7px 19.2px 89.2px;
+
+  padding: 0 0 13.2px;
+
+  border-radius: 4.2px;
+
+  box-shadow: 0 0 10px 0 rgba(71, 88, 90, 0.47);
+
+  background-color: #ffffff;
+}
+
+.card2_detail {
+  width: 325.8px;
+
+  height: 400.3px;
+
+  margin: 0px 21.7px 19.2px 89.2px;
+
+  padding: 0 0 13.2px;
+
+  border-radius: 4.2px;
+
+  box-shadow: 0 0 10px 0 rgba(71, 88, 90, 0.47);
+
+  background-color: #ffffff;
+}
+
+.card_img {
+  position: relative;
+  width: 325.8px;
+  height: 120.8px;
+}
+
+.Bitmap {
+  position: absolute;
+  width: 49.2px;
+  height: 7.5px;
+  left: 370px;
+}
+
+.card_img_rec {
+  position: absolute;
+
+  top: 1280px;
+
+  width: 40px;
+
+  height: 11.7px;
+
+  margin: 37.5px 44.2px 0.2px 0;
+
+  padding: 0.3px 0.2px 1.3px 10.8px;
+
+  border-radius: 5.8px;
+
+  background-color: #dcc777;
+}
+
+.gold {
+  width: 29px;
+
+  height: 10px;
+
+  font-size: 7.5px;
+
+  font-weight: 600;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  letter-spacing: 0.01px;
+
+  text-align: left;
+
+  color: #ffffff;
+}
+
+.Association-for-chil {
+  position: absolute;
+
+  top: 1320px;
+
+  width: 269px;
+
+  height: 20px;
+
+  font-size: 15px;
+
+  font-weight: 600;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.5;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #ffffff;
+}
+
+.American-Refugee-Com {
+  position: absolute;
+
+  top: 1320px;
+
+  left: 540px;
+
+  width: 269px;
+
+  height: 20px;
+
+  font-family: OpenSans;
+
+  font-size: 15px;
+
+  font-weight: 600;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.5;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #ffffff;
+}
+
+.National-Art-Educati {
+  position: absolute;
+
+  top: 1320px;
+
+  left: 980px;
+
+  width: 269px;
+
+  height: 20px;
+
+  margin: 1px 31.8px 1.7px 0;
+
+  font-size: 15px;
+
+  font-weight: 600;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.5;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #ffffff;
+}
+
+.Refugee-center-onlin {
+  position: absolute;
+
+  top: 1790px;
+
+  width: 269px;
+
+  height: 20px;
+
+  margin: 1.8px 31px 1.7px 0;
+
+  font-size: 15px;
+
+  font-weight: 600;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.5;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #ffffff;
+}
+
+.Uma-Education-Inc {
+  position: absolute;
+
+  top: 1790px;
+
+  left: 540px;
+
+  width: 269px;
+
+  height: 20px;
+
+  margin: 1px 31px 1.7px 0;
+
+  font-family: OpenSans;
+
+  font-size: 15px;
+
+  font-weight: 600;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.5;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #ffffff;
+}
+
+.National-Humane-Educ {
+  position: absolute;
+
+  top: 1790px;
+
+  left: 980px;
+
+  width: 269px;
+
+  height: 20px;
+
+  margin: 1px 33.2px 1.7px 1.7px;
+
+  font-size: 15px;
+
+  font-weight: 600;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.5;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #ffffff;
+}
+
+.date {
+  position: relative;
+
+  width: 81px;
+
+  height: 8px;
+
+  margin: 18.3px 213.2px 10.3px 9.2px;
+
+  font-family: Helvetica;
+
+  font-size: 7.5px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.07;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #000000;
+}
+
+.date2 {
+  position: relative;
+
+  width: 81px;
+
+  height: 8px;
+
+  margin: 18.3px 213.2px 10.3px 9.2px;
+
+  font-family: Helvetica;
+
+  font-size: 7.5px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.07;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #000000;
+}
+
+.BBC_News {
+  position: relative;
+
+  width: 295px;
+
+  height: 11px;
+
+  margin: 10.3px 17.5px 19px 13.3px;
+
+  font-family: OpenSans;
+
+  font-size: 8.3px;
+
+  font-weight: 300;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.5;
+
+  letter-spacing: 0.08px;
+
+  text-align: left;
+
+  color: #484848;
+}
+
+.Mrs-Wong-taught-me {
+  position: relative;
+
+  width: 295px;
+
+  height: 36px;
+
+  margin: 11px 17.5px 12.3px 13.3px;
+
+  font-family: OpenSans;
+
+  font-size: 8.3px;
+
+  font-weight: 300;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.5;
+
+  letter-spacing: 0.08px;
+
+  text-align: left;
+
+  color: #484848;
+}
+
+.Mrs-Wong-taught-me .text-style-1 {
+  font-weight: 600;
+
+  color: #6cc8d8;
+}
+
+.Mrs-Wong-taught-me .text-style-2 {
+  font-weight: normal;
+
+  color: #6cc8d8;
+}
+
+.More {
+  position: relative;
+
+  width: 162px;
+
+  height: 10px;
+
+  margin: 12.3px 150.5px 0 13.3px;
+
+  font-family: OpenSans;
+
+  font-size: 7.5px;
+
+  font-weight: 600;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 3;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #6ec9d9;
+}
+
+.Mission-The-mission {
+  width: 287px;
+
+  height: 36px;
+
+  margin: 22.7px 21.3px 51.5px 17.5px;
+
+  font-family: OpenSans;
+
+  font-size: 8.3px;
+
+  font-weight: 300;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.5;
+
+  letter-spacing: 0.08px;
+
+  text-align: left;
+
+  color: #484848;
+}
+
+.Mission-The-mission .text-style-1 {
+  font-weight: bold;
+}
+
+.Recomend_grant1 {
+  width: 166.7px;
+  height: 35.7px;
+  border-radius: 4.2px;
+  background-color: #6ec9d9;
+  margin-top: 13px;
+}
+
+.Recomend_grant2 {
+  width: 166.7px;
+  height: 35.7px;
+  border-radius: 4.2px;
+  background-color: #f1f1f1;
+  margin-top: 13px;
+}
+
+.button {
+  display: flex;
+}
+
+.Recomend_text1 {
+  margin-left: auto;
+
+  margin-right: auto;
+
+  width: 83px;
+
+  height: 13px;
+
+  font-family: OpenSans;
+
+  font-size: 9.2px;
+
+  font-weight: 600;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 2.45;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #ffffff;
+}
+
+.Recomend_text2 {
+  margin-left: auto;
+
+  margin-right: auto;
+
+  width: 83px;
+
+  height: 13px;
+
+  font-family: OpenSans;
+
+  font-size: 9.2px;
+
+  font-weight: 600;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 2.45;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #161616;
+}
